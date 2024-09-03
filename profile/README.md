@@ -19,5 +19,6 @@
 ### [01_Java](https://github.com/240822-HiMedia-Sinchon/01_Java)
 ---
 ## 💯Practice💯
-### [01_Practice](https://github.com/240822-HiMedia-Sinchon/Practice)
+### [Practice](https://github.com/240822-HiMedia-Sinchon/Practice)
+### [Answer]()
 
