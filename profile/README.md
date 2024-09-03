@@ -17,3 +17,7 @@
 ---
 ## 🎍Language🎍
 ### [01_Java](https://github.com/240822-HiMedia-Sinchon/01_Java)
+---
+## 💯Practice💯
+### [01_Practice]()
+
