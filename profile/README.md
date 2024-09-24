@@ -21,10 +21,11 @@
 ---
 ## 📅DBMS📅
 ### [02_MySQL](https://github.com/240822-HiMedia-Sinchon/02_MySQL)
-### [02_MySQL-Practice](https://github.com/240822-HiMedia-Sinchon/2-1_MySQL-Practice)
+
 
 ---
 ## 💯Practice💯
-### [Practice](https://github.com/240822-HiMedia-Sinchon/Practice)
-### [Answer](https://github.com/240822-HiMedia-Sinchon/Answer)
+### [01_Java-Practice](https://github.com/240822-HiMedia-Sinchon/Practice)
+### [01_Java-Answer](https://github.com/240822-HiMedia-Sinchon/Answer)
+### [02_MySQL-Practice](https://github.com/240822-HiMedia-Sinchon/2-1_MySQL-Practice)
 
