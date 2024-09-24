@@ -21,6 +21,7 @@
 ---
 ## 📅DBMS📅
 ### [02_MySQL](https://github.com/240822-HiMedia-Sinchon/02_MySQL)
+### [02_MySQL-Practice](https://github.com/240822-HiMedia-Sinchon/2-1_MySQL-Practice)
 
 ---
 ## 💯Practice💯
