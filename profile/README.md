@@ -33,7 +33,7 @@
 ---
 ## 📖Web-Publising📖
 ### [05_HTML](https://github.com/240822-HiMedia-Sinchon/05_HTML)
-### [06_CSS]
+### [06_CSS](https://github.com/240822-HiMedia-Sinchon/06_CSS)
 
 ---
 ## 💯Practice💯
