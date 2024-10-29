@@ -26,7 +26,7 @@
 ---
 ## 👽API👽
 ### [03_JDBC](https://github.com/240822-HiMedia-Sinchon/03_JDBC)
-### [08_Servlet]()
+### [08_Servlet](https://github.com/240822-HiMedia-Sinchon/08_Servlet)
 
 ---
 ## 🩹Persistence Framework🩹
