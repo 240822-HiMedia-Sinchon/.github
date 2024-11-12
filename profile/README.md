@@ -31,7 +31,7 @@
 ---
 ## 🚡Framework🚡
 ### [09_Spring-Core](https://github.com/240822-HiMedia-Sinchon/09_Spring-Core)
-### [10_Spring-Web-MVC](https://github.com/240822-HiMedia-Sinchon/11_Spring-Web_MVC)
+### [10_Spring-Web-MVC](https://github.com/240822-HiMedia-Sinchon/10_Spring-Web_MVC)
 ---
 ## 🩹Persistence Framework🩹
 ### [04_MyBatis](https://github.com/240822-HiMedia-Sinchon/04_MyBatis)
