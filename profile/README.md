@@ -35,7 +35,7 @@
 ---
 ## 🩹Persistence Framework🩹
 ### [04_MyBatis](https://github.com/240822-HiMedia-Sinchon/04_MyBatis)
-### [12_JPA]()
+### [12_JPA](https://github.com/240822-HiMedia-Sinchon/12_JPA)
 
 ---
 ## 🍷Authentication🍷
