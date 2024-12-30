@@ -33,6 +33,11 @@
 ### [09_Spring-Core](https://github.com/240822-HiMedia-Sinchon/09_Spring-Core)
 ### [10_Spring-Web-MVC](https://github.com/240822-HiMedia-Sinchon/10_Spring-Web_MVC)
 ---
+
+---
+## 🌼Architecture🌼
+### [13_Rest-API]() 
+---
 ## 🩹Persistence Framework🩹
 ### [04_MyBatis](https://github.com/240822-HiMedia-Sinchon/04_MyBatis)
 ### [12_JPA](https://github.com/240822-HiMedia-Sinchon/12_JPA)
