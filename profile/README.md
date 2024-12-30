@@ -35,7 +35,7 @@
 ---
 
 ## 🌼Architecture🌼
-### [13_Rest-API]() 
+### [13_Rest-API](https://github.com/240822-HiMedia-Sinchon/13_Rest-API) 
 ---
 ## 🩹Persistence Framework🩹
 ### [04_MyBatis](https://github.com/240822-HiMedia-Sinchon/04_MyBatis)
