@@ -33,6 +33,7 @@
 
 ---
 ## 🚡Framework🚡
+### [etc_JSP](https://github.com/240822-HiMedia-Sinchon/etc_JSP)
 ### [09_Spring-Core](https://github.com/240822-HiMedia-Sinchon/09_Spring-Core)
 ### [10_Spring-Web-MVC](https://github.com/240822-HiMedia-Sinchon/10_Spring-Web_MVC)
 ---
